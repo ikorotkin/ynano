@@ -1,0 +1,6 @@
+rm *.vtk
+rm *.xyz
+rm *.p
+
+../../../Source/Y_NANO/YNANO highT.ynano
+

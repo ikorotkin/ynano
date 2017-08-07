@@ -1,0 +1,17 @@
+Copyright (C) 2008, Dr. Antonio Munjiza and Dr. Esteban Rougier
+
+This code is provided as part of the book entitled "Computational Mechanics of Discontinua".
+
+It is distributed WITHOUT ANY WARRANTY; without even the implied warranty of  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Inclusion of a part or whole of this code into any other commercial or research or other purpose code is not granted without author's written explicit permission.
+
+When results using whole or any part of this code are published, Y_NANO code must be mentioned and acknowledgement to Dr Munjiza and Dr. Rougier must be made.
+
+Should you modify this source code, the Copyright (C) on the modified code as a whole belongs to Dr. A. Munjiza and Dr. E. Rougier regardless of the extent or nature of modifications.
+
+Copyright (C) to whole of any code containing any part of this code also belongs to Dr. A. Munjiza and Dr. E Rougier. 
+
+Any code comprising any part of this source code must be called Y_NANO program.
+
+If you do not agree with this, you are not allowed to do any modifications to any part of this source code or included any part of it in any other program.

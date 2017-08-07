@@ -1,0 +1,8 @@
+rm *.o
+rm YNANO
+
+g++ -m64 -Wall -ansi -g -c *.cpp
+
+g++ -m64 -Wall -ansi -g -o YNANO *.o -lm
+
+
